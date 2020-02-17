@@ -13,3 +13,7 @@ Some Purpose
 This can be deployed anywhere
 
 ## How to Contribute
+
+### Copyright
+
+2020 Git. Training
