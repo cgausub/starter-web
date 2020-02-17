@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project
+This is a simple website project. Adding more text for rebasing example
 
 ## Inroduction 
 
