@@ -13,6 +13,7 @@ Some Purpose
 This can be deployed anywhere
 
 ## How to Contribute
+Fork repository and issue pull request to contribute changes
 
 ### Copyright
 
