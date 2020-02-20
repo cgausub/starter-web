@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project. Adding more text for rebasing example, added mroe changes from the feature branch
+Update for emergency fix after stash
 
 ## Inroduction 
 
