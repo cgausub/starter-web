@@ -17,4 +17,4 @@ Fork repository and issue pull request to contribute changes
 
 ### Copyright
 
-2020 Git. Training
+2020 Git. Training. All rights reserved.
